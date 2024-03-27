@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": "dece",
+      "cityName": "Idanha-a-Nova",
+      "emoji": "🇵🇹",
+      "country": "Portugal",
+      "date": "2024-03-21T06:58:34.788Z",
+      "notes": "",
+      "position": {
+        "lat": "39.86266854516588",
+        "lng": "-7.141113281250001"
+      }
+    },
+    {
+      "id": "b1a4",
+      "cityName": "Robledo del Mazo",
+      "emoji": "🇪🇸",
+      "country": "Spain",
+      "date": "2024-03-21T07:29:26.418Z",
+      "notes": "",
+      "position": {
+        "lat": "39.62442322135402",
+        "lng": "-4.899902343750001"
+      }
+    },
+    {
+      "id": "9042",
+      "cityName": "Ciudad Real",
+      "emoji": "🇪🇸",
+      "country": "Spain",
+      "date": "2024-03-21T07:37:52.493Z",
+      "notes": "",
+      "position": {
+        "lat": "38.875871110057176",
+        "lng": "-3.9331054687500004"
+      }
+    },
+    {
+      "id": "87a5",
+      "cityName": "Fuente del Arco",
+      "emoji": "🇪🇸",
+      "country": "Spain",
+      "date": "2024-03-27T09:11:14.261Z",
+      "notes": "",
+      "position": {
+        "lat": "38.16457270875216",
+        "lng": "-5.9326171875"
+      }
+    }
+  ]
+}
